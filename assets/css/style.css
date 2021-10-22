@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e1e1e1;
+    font-size: 20px;
+}
+
+#font {
+    position: absolute;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    width: 40%;
+    height: 50%;
+    box-shadow: 1px 1px 10px black;
+}
+
+#timbre {
+    position:absolute;
+    border: 1px solid black;
+    display: block;
+    height: 30%;
+    width: 15%;
+    margin-left: 80%;
+    margin-top: 5%;
+}
+
+#ligne_haut {
+    position: absolute;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    display: block;
+    width: 40%;
+    margin-top: 35%;
+    margin-left: 55%;
+    height: 10%;
+}
+
+#ligne_basse {
+    position: absolute;
+    border-top: 1px solid black;
+    display: block;
+    width: 40%;
+    margin-top: 47%;
+    margin-left: 55%;
+    height: 10%;
+}
+
+#ligne_carre {
+    position: absolute;
+    border-bottom: 1px solid black;
+    display: block;
+    width: 18%;
+    margin-top: 47%;
+    margin-left: 77%;
+    height: 10%;
+}
+
+.carre {
+    display: inline-block;
+    margin-top: 49%;
+    border: 1px solid black;
+}
+
+#carre_one {
+    position: absolute;
+    margin-left: 72%;
+    width: 3%;
+    height: 7%;
+}
+
+#carre_two {
+    position: absolute;
+    margin-left: 68%;
+    width: 3%;
+    height: 7%;
+}
+
+#carre_three {
+    position: absolute;
+    margin-left: 64%;
+    width: 3%;
+    height: 7%;
+}
+
+#carre_four {
+    position: absolute;
+    margin-left: 60%;
+    width: 3%;
+    height: 7%;
+}
+
+#carre_five {
+    position: absolute;
+    margin-left: 56%;
+    width: 3%;
+    height: 7%;
+}
+
+#ligne_milieu {
+    position: absolute;
+    border-right: 1px solid black;
+    display: block;
+    margin-top: 3%;
+    margin-left: 50%;
+    width: 1%;
+    height: 90%;
+}
+
+#first {
+    margin-top: 15%;
+    margin-left: 2%;
+}
+
+#second {
+    margin-top: 5%;
+    margin-left: 2%;
+}
